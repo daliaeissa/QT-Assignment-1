@@ -1,0 +1,10 @@
+debug/Users.o
+debug/main.o
+debug/loginwindow.o
+debug/registerwindow.o
+debug/registrationwindow.o
+debug/welcomewindow.o
+debug/moc_loginwindow.o
+debug/moc_registerwindow.o
+debug/moc_registrationwindow.o
+debug/moc_welcomewindow.o

@@ -1,0 +1,10 @@
+release/Users.o
+release/main.o
+release/loginwindow.o
+release/registerwindow.o
+release/registrationwindow.o
+release/welcomewindow.o
+release/moc_loginwindow.o
+release/moc_registerwindow.o
+release/moc_registrationwindow.o
+release/moc_welcomewindow.o
