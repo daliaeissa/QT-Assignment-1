@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>400</width>
+    <width>435</width>
     <height>426</height>
    </rect>
   </property>
@@ -386,7 +386,7 @@
     </property>
    </widget>
   </widget>
-  <widget class="QPushButton" name="pushButton_register">
+  <widget class="QPushButton" name="pushButton_registerfinal">
    <property name="geometry">
     <rect>
      <x>20</x>
@@ -417,19 +417,19 @@
     <rect>
      <x>310</x>
      <y>20</y>
-     <width>58</width>
-     <height>16</height>
+     <width>101</width>
+     <height>21</height>
     </rect>
    </property>
    <property name="text">
-    <string>Error</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;*Already Existing&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
   <widget class="QLabel" name="ageerrorlabel">
    <property name="geometry">
     <rect>
-     <x>310</x>
-     <y>150</y>
+     <x>320</x>
+     <y>160</y>
      <width>58</width>
      <height>16</height>
     </rect>
@@ -443,12 +443,25 @@
     <rect>
      <x>120</x>
      <y>390</y>
-     <width>58</width>
+     <width>281</width>
      <height>16</height>
     </rect>
    </property>
    <property name="text">
-    <string>Error</string>
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;*All fields must be filled&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_reenterpass_2">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>81</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;*Not Matching&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
  </widget>
