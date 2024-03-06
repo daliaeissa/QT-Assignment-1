@@ -12,3 +12,10 @@ RegistrationWindow::~RegistrationWindow()
 {
     delete ui;
 }
+
+// void RegistrationWindow::on_pushButton_register_clicked()
+// {
+//     connect(ui->pushButton_register, on_pushButton_register_clicked()::clicked, this, &Ui::RegistrationWindow::pushButton_register);
+//     initializeUI();
+// }
+
