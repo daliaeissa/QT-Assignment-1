@@ -18,6 +18,10 @@ public:
 // private slots:
 //     void on_pushButton_register_clicked();
 
+private slots:
+    void pushButton_register();
+    void infosave();
+    void thecheckboxifs(bool &usergenrescheck);
 private:
     Ui::RegistrationWindow *ui;
 };
