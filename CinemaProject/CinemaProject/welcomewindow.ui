@@ -18,7 +18,7 @@
     <rect>
      <x>30</x>
      <y>20</y>
-     <width>61</width>
+     <width>361</width>
      <height>16</height>
     </rect>
    </property>
@@ -52,9 +52,23 @@
     <string/>
    </property>
   </widget>
+  <widget class="QPushButton" name="pushButton_logout">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>310</y>
+     <width>80</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Logout</string>
+   </property>
+  </widget>
   <zorder>label_hello</zorder>
   <zorder>label_photowelcome</zorder>
   <zorder>label_welcome</zorder>
+  <zorder>pushButton_logout</zorder>
  </widget>
  <resources/>
  <connections/>
