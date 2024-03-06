@@ -171,7 +171,7 @@
     <rect>
      <x>20</x>
      <y>81</y>
-     <width>111</width>
+     <width>121</width>
      <height>16</height>
     </rect>
    </property>
@@ -410,6 +410,45 @@
    </property>
    <property name="text">
     <string>Password: </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="usernameerrorlabel">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>20</y>
+     <width>58</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Error</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="ageerrorlabel">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>150</y>
+     <width>58</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Error</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="registererrorlabel">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>390</y>
+     <width>58</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Error</string>
    </property>
   </widget>
  </widget>

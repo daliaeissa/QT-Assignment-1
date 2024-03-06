@@ -15,6 +15,10 @@ public:
     explicit RegistrationWindow(QWidget *parent = nullptr);
     ~RegistrationWindow();
 
+private slots:
+    void pushButton_register();
+    void infosave();
+    void thecheckboxifs(bool &usergenrescheck);
 private:
     Ui::RegistrationWindow *ui;
 };
